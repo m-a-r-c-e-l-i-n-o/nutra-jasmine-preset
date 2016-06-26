@@ -1,0 +1,29 @@
+{
+  "name": "nutra-jasmine-preset",
+  "version": "0.0.1",
+  "description": "The \"nutra-jasmine-preset\" module makes available the \"jasmine\" framework, and \"commonjs\" module loader to the \"N.U.T.R.A.\" unit test runner.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/m-a-r-c-e-l-i-n-o/nutra-jasmine-preset.git"
+  },
+  "keywords": [
+    "N.U.T.R.A.",
+    "preset",
+    "jasmine",
+    "behavior-driven",
+    "node",
+    "unit",
+    "test",
+    "testing"
+  ],
+  "author": "m-a-r-c-e-l-i-n-o <me@marceli.no>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/m-a-r-c-e-l-i-n-o/nutra-jasmine-preset/issues"
+  },
+  "homepage": "https://github.com/m-a-r-c-e-l-i-n-o/nutra-jasmine-preset#readme",
+  "dependencies": {
+    "nutra-commonjs": "0.0.3",
+    "nutra-jasmine": "0.0.1"
+  }
+}
